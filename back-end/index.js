@@ -60,21 +60,3 @@ function lucroMaximo(a, b, c){
 lucroMaximo(-1, 30, 0);
 
 
-
-
-// let lucroMax = (output) => {
-
-//     acoes = [1,2,5,43,6]
-    
-//     indice = 0;
-    
-    
-//         for (let i = 0; i<= acoes.length; i++){
-//             if (output == acoes[i]){
-//                 let indice = acoes[i]
-//             }
-//         }
-    
-//         let mapa = acoes.map(n -> indice - n)
-//         return Math.max(...mapa)
-//     }
